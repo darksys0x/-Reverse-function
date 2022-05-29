@@ -44,7 +44,7 @@ int main() {
 	return 0;
 }
 
-
+//the original code.
   std::string theUser;
   std::cout << "user: ";
   std::getline(std::cin, theUser);
